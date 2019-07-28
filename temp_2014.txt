@@ -1,0 +1,7 @@
+CNN 276 97 148  #
+Cicerio 272 115 156  #
+ABPNews–Nielsen 274 97 165 #
+IndiaTV–CVoter 289 101 148
+newsX 289 101 153 #
+MINE 298 91 149
+ActualResults 336 58 149

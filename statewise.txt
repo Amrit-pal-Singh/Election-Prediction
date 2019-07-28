@@ -1,0 +1,201 @@
+(40)
+Bihar TimesNow 30 10 0
+Bihar CVoter 33 7 10
+Bihar Chanakya 32 8 0
+Bihar ABPNielsen 34 6 0
+Bihar JanKiBat 29 0 1
+Bihar News18 35 5 0
+Bihar CVoter 33 7 0
+
+
+
+(28)
+Karnataka TimesNow 21 7 0
+Karnataka CNN 22 6 0
+Karnataka CVoter 17 11 0
+Karnataka ABPNielsen 15 13 0
+Karnataka CVoter 18 9 1
+
+
+
+(20)
+Kerala CVoter 0 15 5
+Kerala IndiaToday 1 16 3
+
+
+(29)
+MP CVoter 24 5 0
+MP TimesNow 24 5 0
+MP IndiaTodayAxis 27 3 0
+
+
+(26)
+Gujarat AajTakAxis 25 1 0
+Gujarat Chanakya 26 0 0
+Gujarat TimesNow 23 3 0
+Gujarat CVoter 22 4 0
+Gujarat IndiaToday 25 1 0
+
+
+
+(48)
+Maharastra IndiaTodayAxis 40 8 0
+Maharastra TimesNow 38 10 0
+Maharastra CVoter 34 14 0
+Maharastra Chanakya 38 10 0
+Maharastra IndiaToday 40 8 0
+
+
+
+(42)
+WestBengal IndiaToday 21 1 21
+WestBengal TimesNow 11 2 28
+WestBengal Chanakya 18 1 23
+WestBengal ABPNielsen 16 2 24
+WestBengal CVoter 11 2 29
+WestBengal IndiaNewsPolstrat 14 2 26
+WestBengal RepublicCVoter 11 2 29
+
+
+
+(25)
+Rajasthan TimesNow 21 4 0
+Rajasthan IndiaToday 24 1 0
+Rajasthan Chanakya 25 0 0
+Rajasthan CVoter 22 3 0
+
+
+(13)
+Punjab CVoter 3 9 1
+Punjab JanKiBat 3 9 1
+Punjab Zee24Taas 1 10 2
+Punjab CVoter 3 9 1 
+
+
+
+(80)
+UP Chanakya 65 2 13
+UP TimesNow 56 2 20
+UP News18 61 1 18
+UP IndiaToday 65 2 13
+UP CVoter 38 2 40 
+UP NewsX 33 4 41
+UP IndiaToday 66 0 14
+
+
+
+
+(7)
+Delhi CVoter 7 0 0
+Delhi CVoter 7 0 0
+Delhi Chanakya 7 0 0
+Delhi IndiaToday 6 1 0
+Delhi TimesNow 7 0 0
+
+
+(42)
+AndhraPradesh CVoter 1 4 36
+AndhraPradesh News18 2 1 39
+
+
+(21)
+Odhisa Chanakya 14 0 7
+Odhisa CVoter 10 0 11
+Odhisa IndiaToday 17 0 4
+
+
+
+(2)
+ArunachalPradesh CVoter 2 0 0
+
+
+(14)
+Assam JanKiBat 8 5 1
+Assam TimesNow 8 4 2
+Assam CVoter 6 7 1
+
+
+(11)
+Chhattisgarh ABPNews 9 2 7
+Chhattisgarh CVoterCNX 5 6 1
+Chhattisgarh NewsNation 5 6 1
+Chhattisgarh TimesNow 8 3 5  
+
+
+(2)
+Goa CVoter 2 0 0
+Goa CVoter 1 1 0
+
+
+
+(10)
+Haryana CVoter 9 1 0
+Haryana CVoter 7 3 0
+Haryana ABPNews 6 3 1 
+
+
+(4)
+HimachalPradesh JanKiBat 4 0 0
+
+
+(6)
+JammuAndKashmir CVoter 2 4 0
+JammuAndKashmir TimesNow 2 4 0
+JammuAndKashmir CVoter 2 4 0
+
+
+
+(14)
+Jharkhand TimesNow 11 3 0
+Jharkhand NewsNation 9 5 0
+Jharkhand CVoter 10 4 0
+Jharkhand VDPAssociates 7 7 0
+
+
+(2)
+Manipur TimesNow 1 1 0
+
+
+(2)
+Meghalaya TimesNow 1 1 0 
+
+(1)
+Mizoram TimesNow 1 0 0
+
+(1)
+Nagaland TimesNow 0 0 1
+
+(1)
+Sikkim NewsX 1 0 0
+Sikkim CVoter 1 0 0 
+Sikkim TimesNow 1 0 0
+
+
+(39)
+TamilNadu TimesNow 6 33 0
+TamilNadu CVoter 13 21 0
+TamilNadu NewsNation 15 24 0
+TamilNadu Times 15 18 6
+TamilNadu CVoter 15 22 2
+
+
+(2)
+Tripura TimesNow 2 0 0
+Tripura CVoter 1 0 1 
+
+
+(5)
+Uttarakhand JanKiBat 5 0 0
+Uttarakhand CVoter 5 0 0 
+
+
+(6)
+Union CVoter 2 4 0
+
+
+
+
+
+
+
+

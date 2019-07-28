@@ -1,0 +1,12 @@
+CNN 336 82 124
+News24–Chanakya 350 95 97
+TimesNow–ORG 306 132 104
+IndiaTV–CVoter 287 128 127
+newsX 242 164 137
+ABPNews–Nielsen 281 97 165
+Cicerio 270 115 157
+
+
+
+
+MINE 307 118 118

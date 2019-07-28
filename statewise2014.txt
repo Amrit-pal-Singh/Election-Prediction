@@ -1,0 +1,162 @@
+(80)
+UP TimesNow 49 10 21
+UP ABPNielsen 46 8 26
+UP Chanakya 67 3 10
+UP CVoter 54 7 19
+UP CNN 49 4 27
+
+(48)
+Maharastra TimesNow 29 19 0
+Maharastra CNN 35 13 0
+Maharastra ABPNielsen 32 15 1
+Maharastra Chanakya 39 9 0
+Maharastra CVoter 32 14 2
+
+(42)
+AndhraPradesh TimesNow 18 4 20
+AndhraPradesh ABPNielsen 12 3 27
+AndhraPradesh CVoter 12 7 23
+
+(42)
+WestBengal TimesNow 2 4 36
+WestBengal ABPNielsen 1 5 36
+WestBengal CVoter 2 4 36
+WestBengal Chanakya 8 5 29
+
+(40)
+Bihar TimesNow 28 2 10
+Bihar ABPNielsen 20 15 5
+Bihar CVoter 28 10 2
+Bihar Chanakya 29 10 1 
+Bihar CNN 24 13 3
+
+
+(2)
+ArunachalPradesh CVoter 1 1 0
+
+
+(39)
+TamilNadu TimesNow 0 1 38
+TamilNadu ABPNielsen 4 1 32 
+TamilNadu CVoter 5 1 33
+TamilNadu Chanakya 7 0 32
+TamilNadu CNN 5 0 34
+
+
+(13)
+Punjab TimesNow 8 5 0
+Punjab CNN 7 4 2
+Punjab ABPNielsen 5 7 1
+Punjab CVoter 6 4 3
+Punjab Chanakya 5 3 5
+
+(29)
+MP TimesNow 18 9 2
+MP CNN 26 3 0
+MP ABPNielsen 26 3 0
+MP CVoter 26 3 0
+MP Chanakya 26 3 0
+
+
+(28)
+Karnataka TimesNow 20 7 1 
+Karnataka CNN 12 14 2
+Karnataka ABPNielsen 16 8 4
+Karnataka CVoter 18 7 3
+Karnataka Chanakya 20 6 2
+
+
+(26)
+Gujarat TimesNow 23 3 0
+Gujarat CNN 23 3 0
+Gujarat ABPNielsen 24 2 0
+Gujarat CVoter 22 4 0
+Gujarat Chanakya 26 0 0
+
+
+(25)
+Rajasthan TimesNow 10 14 1
+Rajasthan CNN 23 2 0
+Rajasthan ABPNielsen 22 2 1
+Rajasthan CVoter 22 2 1
+Rajasthan Chanakya 24 1 0
+
+
+(21)
+Odhisa TimesNow 2 5 14
+Odhisa CNN 5 2 14
+Odhisa ABPNielsen 10 2 9
+Odhisa CVoter 6 4 11
+Odhisa Chanakya 8 1 12
+
+
+(20)
+Kerala TimesNow 0 17 3
+Kerala CNN 0 13 7
+Kerala ABPNielsen 1 11 8
+Kerala CVoter 0 11 9
+Kerala Chanakya 0 12 8
+
+(14)
+Assam TimesNow 8 5 0
+Assam CVoter 6 6 2
+Assam Chanakya 8 4 2
+
+(11)
+Chhattisgarh CVoter 8 3 0
+Chhattisgarh CVoter 8 3 0
+
+(2)
+Goa CVoter 1 1 0 
+Goa CVoter 1 1 0
+
+
+(10)
+Haryana CVoter 4 5 1
+Haryana CVoter 4 5 1
+
+(4)
+HimachalPradesh CVoter 3 1 0
+HimachalPradesh CVoter 3 1 0
+
+(6)
+JammuAndKashmir CVoter 1 1 4
+JammuAndKashmir CVoter 1 1 4
+
+(14)
+Jharkhand CVoter 8 1 5
+
+(2)
+Manipur CVoter 0 2 0
+Manipur CVoter 0 2 0
+
+(2)
+Meghalaya CVoter 0 1 1
+Meghalaya CVoter 0 1 1
+
+(1)
+Mizoram CVoter 0 1 0
+Mizoram CVoter 0 1 0
+
+(1)
+Nagaland CVoter 0 0 1
+
+(1)
+Sikkim CVoter 0 0 1
+
+(2)
+Tripura CVoter 0 0 2
+
+(5)
+Uttarakhand CVoter 5 0 0
+
+(7)
+Delhi CVoter 4 0 3
+Delhi CNN 1 3 2
+
+(6)
+Union CVoter 3 1 2
+
+
+
+

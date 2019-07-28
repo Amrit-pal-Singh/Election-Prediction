@@ -1,0 +1,7 @@
+CNN 172 195 176
+IndiaTV–CVoter 189 195 159
+newsX 191 199 153
+ABPNews–Nielsen 198 202 143
+NDTV–HansaResearch 177 205 161
+News24–Chanakya 194 218 131
+ActualResults 157 262 124
